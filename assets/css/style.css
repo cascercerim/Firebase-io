@@ -1,0 +1,40 @@
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+    padding: 0 3rem;
+    font-size: 1.6rem;
+    padding-bottom: 20px;
+    background: url(../images/train.jpg);
+    background-size: cover;
+}
+
+#clock{
+    color:white;
+}
+ 
+ .heading-primary--sub {
+     display: block;
+     font-size: 2rem;
+     font-weight: 700;
+     letter-spacing: 1.75rem;
+ }
+ .container-fluid {
+        padding-top: 20px;
+ }
+
+.form-group{
+    margin-left: 30px;
+    padding-top: 10px;
+    padding: 10px;
+    width: 80%;
+    
+ }
+ #submit{
+     margin-top: 13px;
+     padding: 5px, 10px;
+
+ }
